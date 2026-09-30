@@ -1,0 +1,20 @@
+{
+  "name": "flexrender.dev",
+  "version": "1.0.0",
+  "description": "Flexr Ander Premium Studio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Mahmoud Mohamed Younes",
+  "license": "ISC",
+  "dependencies": {
+    "country-codes-list": "^3.2.0",
+    "next": "^16.3.6",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
