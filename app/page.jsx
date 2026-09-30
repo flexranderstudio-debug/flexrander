@@ -13,8 +13,8 @@ const studioSettings = {
   hero: {
     bgImage: "/Untitled.png",
     meta: "CREATIVE DIRECTION • DIGITAL ARCHITECTURE",
-    titleLine1: "FLEXR",
-    titleLine2: "RNDER",
+    titleLine1: "FLEX",
+    titleLine2: "RANDER",
     jobTitle: "Crafting Silent Digital Dominance",
     btnText: "VIEW SELECTED WORKS",
     btnLink: "/work",
