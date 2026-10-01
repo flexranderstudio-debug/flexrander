@@ -1,7 +1,7 @@
 import { Playfair_Display, Cinzel, Montserrat } from "next/font/google";
 import "./globals.css";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://flexrender.dev";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://www.flexrander.com";
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
