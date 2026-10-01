@@ -24,7 +24,7 @@ const contactDetails = [
     icon: "support",
     label: "WHATSAPP :",
     value: "+20 101 77 99 246",
-    href: "https://wa.me/201017799246text=Hello%20Flexrender%20Studio",
+    href: "https://wa.me/201017799246?text=Hello%20Flexrender%20Studio",
     target: "_blank",
   },
   { label: "LOCATION", value: "EGYPT / CAIRO" },
