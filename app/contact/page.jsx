@@ -23,8 +23,8 @@ const contactDetails = [
   {
     icon: "support",
     label: "WHATSAPP :",
-    value: "+20 103 164 0423",
-    href: "https://wa.me/201031640423?text=Hello%20Flexrender%20Studio",
+    value: "+20 101 77 99 246",
+    href: "https://wa.me/201017799246text=Hello%20Flexrender%20Studio",
     target: "_blank",
   },
   { label: "LOCATION", value: "EGYPT / CAIRO" },
