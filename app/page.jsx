@@ -40,7 +40,7 @@ const manifestoData = [
   },
   {
     id: "03",
-    imageSrc: "/sereneminimalist workspacewith cityviews.png",
+    imageSrc: "/sereneminimalistworkspacewithcityviews.png",
     altText: "Visual Domination",
     text: "Every pixel is an intentional layout, designed not to follow industry trends, but to command them with presence and absolute restraint.",
     isReversed: false,
