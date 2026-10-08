@@ -11,7 +11,7 @@ const studioSettings = {
     moveLeft: -50,             
   },
   hero: {
-    bgImage: "/whatsappImage2.jpeg",
+    bgImage: "/sereneminimalist workspacewith cityviews.png",
     meta: "CREATIVE DIRECTION • DIGITAL ARCHITECTURE",
     titleLine1: "FLEX",
     titleLine2: "RANDER",
