@@ -11,7 +11,7 @@ const studioSettings = {
     moveLeft: -50,             
   },
   hero: {
-    bgImage: "/Untitled.png",
+    bgImage: "/whatsappv.jpeg",
     meta: "CREATIVE DIRECTION • DIGITAL ARCHITECTURE",
     titleLine1: "FLEX",
     titleLine2: "RANDER",
@@ -40,7 +40,7 @@ const manifestoData = [
   },
   {
     id: "03",
-    imageSrc: "/whatsappImage1.jpeg",
+    imageSrc: "/whatsappv1.jpeg",
     altText: "Visual Domination",
     text: "Every pixel is an intentional layout, designed not to follow industry trends, but to command them with presence and absolute restraint.",
     isReversed: false,
