@@ -233,9 +233,10 @@ export default function HomePage() {
           flex-direction: column; 
           justify-content: center; 
           padding: 0 80px;
-background: linear-gradient(to bottom, rgba(5, 5, 5, 0.2) 0%, #050505 100%),            url('${studioSettings.hero.bgImage}') no-repeat center center;
+background: linear-gredient(to bottom, rgba(5,5,0.2) 0%, #050505 100%),
+url('${studiosettings.hero.bglmage}') no-repeat center center;
 background-size: cover;
-
+}
         .hero-content-inner {
           width: 100%; 
           max-width: 1400px; 
