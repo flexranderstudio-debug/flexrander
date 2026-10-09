@@ -233,8 +233,8 @@ export default function HomePage() {
           flex-direction: column; 
           justify-content: center; 
           padding: 0 80px;
-background: linear-gradient(to bottom, rgba(5, 5, 5, 0.75) 0%, rgba(5, 5, 5, 0.55) 50%, #050505 100%),url('${studiosettings.hero.bglmage}') no-repeat center center;
-background-size: cover;
+background: linear-gradient(to bottom, rgba(5, 5, 5, 0.75) 0%, rgba(5, 5, 5, 0.55) 50%, #050505 100%),
+            url('${studioSettings.hero.bgImage}') no-repeat center center;background-size: cover;
 }
         .hero-content-inner {
           width: 100%; 
